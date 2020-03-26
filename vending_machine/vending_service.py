@@ -64,6 +64,7 @@ def buy():
         print(f"購買後餘額{balance}元")
 
 
+#變更
 
 
 
